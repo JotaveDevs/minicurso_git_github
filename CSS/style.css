@@ -109,5 +109,6 @@ body {
 
     .ascii {
         font-size: clamp(0.72rem, 2.6vw, 1.1rem);
+    
     }
 }
